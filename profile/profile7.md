@@ -42,10 +42,10 @@ object **SEU NOME** {
 </a>
 
 [website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
+[twitter]: https://twitter.com/duuukrl
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[instagram]: https://www.instagram.com/eduardoogoncalvess_/
+[linkedin]: https://www.linkedin.com/in/eduardo-gon%C3%A7alves-993586224/
 <br>
 
 #### Rede Sociais!
